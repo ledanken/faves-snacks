@@ -1,0 +1,1 @@
+web: gunicorn Favorite_Snacks.wsgi
